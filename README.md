@@ -1,4 +1,4 @@
-- 👋 Hola, Soy Joel Castro. Soy Cristiano.
+- 👋 Hola, Soy Joel Castro. De fe Cristiana.
 - 👀 Me interesa la lectura, investigar, la programacion, Conocer nuevas personas. Ayudar a otros en lo que este a mi alcarce.
 - 🌱 Actualmente estoy aprendiendo HTML, CSS, JS, Bootstrap, Materialize CSS, p5.js, C#.
 
